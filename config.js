@@ -39,7 +39,7 @@ window.Config = {
     },
     {
       text: '网盘',
-      url: 'https://drive.ysbrid.top'
+      url: 'https://pan.ysbrid.top'
     },
     {
       txet: '主页',
