@@ -5,14 +5,14 @@ window.Config = {
   SiteName: '梦璃雨落の网站们',
 
   // 站点链接
-  SiteUrl: 'https://www.ysbrid.top',
+  SiteUrl: 'https://home.dreamfall.cn',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
   // 因官网 API 时不时的会 CROS 报错，可填自定义反代域名
   // 详见 https://github.com/yb/uptime-status/ 说明
   //ApiDomain: 'api.uptimerobot.com',
-  ApiDomain: 'status.mengluo.workers.dev',
+  ApiDomain: 'uptime-status.mengluo.workers.dev',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
@@ -30,20 +30,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '博客',
-      url: 'https://www.ysbrid.top'
+      text: '主页',
+      url: 'https://home.dreamfall.cn'
     },
     {
-      text: '导航',
-      url: 'https://nav.ysbrid.top'
+      text: '博客',
+      url: 'https://blog.dreamfall.cn'
     },
     {
       text: '网盘',
-      url: 'https://pan.ysbrid.top'
-    },
-    {
-      txet: '主页',
-      url: 'https://home.ysbrid.top'
+      url: 'https://pan.dreamfall.cn'
     }
   ]
 };
